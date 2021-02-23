@@ -1,0 +1,22 @@
+{
+  "name": "hackerrank",
+  "version": "1.0.0",
+  "description": "Solutions to hackerRank interview preparation problems ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeZeus-dev/HackerRankChallenges.git"
+  },
+  "author": "Constantine Akritides, Mel Pereira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeZeus-dev/HackerRankChallenges/issues"
+  },
+  "homepage": "https://github.com/CodeZeus-dev/HackerRankChallenges#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
